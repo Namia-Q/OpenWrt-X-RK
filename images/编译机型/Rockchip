@@ -1,0 +1,24 @@
+CONFIG_TARGET_rockchip_armv8_DEVICE_ariaboard_photonicat=y
+# CONFIG_TARGET_DEVICE_rockchip_armv8_DEVICE_ezpro_mrkaio-m68s=y
+# CONFIG_TARGET_DEVICE_rockchip_armv8_DEVICE_ezpro_mrkaio-m68s-plus=y
+# CONFIG_TARGET_DEVICE_rockchip_armv8_DEVICE_fastrhino_r66s=y
+# CONFIG_TARGET_DEVICE_rockchip_armv8_DEVICE_fastrhino_r68s=y
+# CONFIG_TARGET_DEVICE_rockchip_armv8_DEVICE_firefly_station-p2=y
+# CONFIG_TARGET_DEVICE_rockchip_armv8_DEVICE_friendlyarm_nanopi-neo3=y
+# CONFIG_TARGET_DEVICE_rockchip_armv8_DEVICE_friendlyarm_nanopi-r2c=y
+# CONFIG_TARGET_DEVICE_rockchip_armv8_DEVICE_friendlyarm_nanopi-r2s=y
+# CONFIG_TARGET_DEVICE_rockchip_armv8_DEVICE_friendlyarm_nanopi-r4s=y
+# CONFIG_TARGET_DEVICE_rockchip_armv8_DEVICE_friendlyarm_nanopi-r4se=y
+# CONFIG_TARGET_DEVICE_rockchip_armv8_DEVICE_friendlyarm_nanopi-r5c=y
+# CONFIG_TARGET_DEVICE_rockchip_armv8_DEVICE_friendlyarm_nanopi-r5s=y
+# CONFIG_TARGET_DEVICE_rockchip_armv8_DEVICE_hinlink_opc-h66k=y
+# CONFIG_TARGET_DEVICE_rockchip_armv8_DEVICE_hinlink_opc-h68k=y
+# CONFIG_TARGET_DEVICE_rockchip_armv8_DEVICE_hinlink_opc-h69k=y
+# CONFIG_TARGET_DEVICE_rockchip_armv8_DEVICE_lyt_t68m=y
+# CONFIG_TARGET_DEVICE_rockchip_armv8_DEVICE_xunlong_orangepi-r1-plus=y
+# CONFIG_TARGET_DEVICE_rockchip_armv8_DEVICE_xunlong_orangepi-r1-plus-lts=y
+
+
+
+
+当你查到这个文件夹说明你已经知道现在lean、的源码暂时本人已经可以用于编译的机型有哪些，其他你可以以自己去测试，当你要编译的时候就去  configs/Target.config  此文件夹把#注释掉把你不需要的给打上# ，或者你都想把机型编译一遍，吃多才会全部编译💕💕。
